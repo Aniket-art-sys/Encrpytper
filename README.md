@@ -1,1 +1,2 @@
-This is trasH, Do not use this!
+This is trash, Do not use this!
+an text encrypter based on xor.
